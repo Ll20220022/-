@@ -59,11 +59,11 @@ Password：123456
 ###成果展示
 ![折线图](screenshot.png)
 
-常见问题
-Q：Metabase 无法连接数据库？
+常见问题\
+Q：Metabase 无法连接数据库？\
 A：检查 Host 是否填了 host.docker.internal，不是 localhost。
 
-Q：pandas 导入失败？
+Q：pandas 导入失败？\
 A：运行 pip install pandas。
 
 作者
