@@ -19,8 +19,6 @@ data.csv → Python/pandas → PostgreSQL → Metabase 看板
 ## 快速开始
 
 ### 1. 安装依赖
-
-```bash
 pip install pandas psycopg
 
 ###2. 准备数据
@@ -54,7 +52,7 @@ Username：postgres
 Password：123456
 
 ###成果展示
-![折线图](https://github.com/Ll20220022/-/blob/main/screenshot.png?raw=true)
+![折线图](screenshot.png)
 
 常见问题
 Q：Metabase 无法连接数据库？
