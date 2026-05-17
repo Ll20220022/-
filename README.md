@@ -54,7 +54,7 @@ Username：postgres
 Password：123456
 
 ###成果展示
-![折线图](screenshot.png)
+![折线图]([screenshot.png](https://github.com/Ll20220022/-/blob/main/screenshot.png))
 
 常见问题
 Q：Metabase 无法连接数据库？
